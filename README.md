@@ -4,14 +4,14 @@ Aplicativo web para um casal controlar juntos os gastos do mês, as contas fixas
 
 **Demonstração com dados fictícios:** [financas-demo-sigma.vercel.app](https://financas-demo-sigma.vercel.app) (pode mexer à vontade; nada é salvo)
 
-![Início no computador](docs/desktop-resumo.png)
+![Início no computador](docs/computador-inicio.png)
 
 <p align="center">
-  <img src="docs/celular-resumo.png" width="190" alt="Início no celular">
-  <img src="docs/celular-contas.png" width="190" alt="Contas a pagar">
-  <img src="docs/celular-graficos.png" width="190" alt="Gastos por categoria">
-  <img src="docs/celular-historico.png" width="190" alt="Histórico de 12 meses">
-  <img src="docs/celular-menu.png" width="190" alt="Menu lateral">
+  <img src="docs/celular-inicio.png" width="190" alt="Início no celular">
+  <img src="docs/celular-contas-a-pagar.png" width="190" alt="Contas a pagar">
+  <img src="docs/celular-gastos.png" width="190" alt="Gastos por categoria">
+  <img src="docs/celular-historico-12-meses.png" width="190" alt="Histórico de 12 meses">
+  <img src="docs/celular-menu-lateral.png" width="190" alt="Menu lateral">
 </p>
 
 ## Funcionalidades
